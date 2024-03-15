@@ -1,2 +1,7 @@
-# Joias_da_Comunidade
-Joias da Comunidade
+# Joias da Comunidade
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865925843706",
+    "project_id": "bd-joias-da-comunidade",
+    "storage_bucket": "bd-joias-da-comunidade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865925843706:android:f8d6f605775ba44c5ad743",
+        "android_client_info": {
+          "package_name": "com.mycompany.joiasdacomunidade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTmCerv81OWYZWHKU7ul6g8ocLRx-1g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
