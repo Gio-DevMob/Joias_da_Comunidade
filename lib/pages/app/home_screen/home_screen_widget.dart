@@ -620,7 +620,7 @@ class _HomeScreenWidgetState extends State<HomeScreenWidget>
                                                       .bodyLarge
                                                       .override(
                                                         fontFamily: 'Roboto',
-                                                        fontSize: 24.0,
+                                                        fontSize: 20.0,
                                                         fontWeight:
                                                             FontWeight.w600,
                                                       ),
